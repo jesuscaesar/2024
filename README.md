@@ -10,4 +10,5 @@ A free music collection project called Popcrush includes collections of popular 
 
 Some of the artists from the period between 2020 and 2023 are including:
 
-* Don Toliver, SZA, Ava Max, Billie Eilish
+* Don Toliver, SZA, Travis Scott
+* Ava Max, Billie Eilish
